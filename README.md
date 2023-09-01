@@ -3,7 +3,7 @@ local whitelist = {
     "ItzSwara31",
     "Arda1420",
     "Tpsciawain", 
-    "Arda1420",
+    "Madridhayatimolmus",
     "252531_werza",
     "qazztr",
     "Buluto31",
