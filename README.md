@@ -14,7 +14,7 @@ local whitelist = {
     "itsh0r",
     "tpsciawain", --me
     "Arda1420", 
-    "EFREWFTEWT" -- giveaway winner
+    "Alexnimo2022" -- giveaway winner
 }
 
 if table.find(whitelist, game.Players.LocalPlayer.Name) then
