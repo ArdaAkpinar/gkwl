@@ -6,7 +6,7 @@ local whitelist = {
     "madridhayatimolmus", --1 hafta
     "252531_werza",
     "qazztr",
-    "arda",
+    "31cihasanxd",
     "azemessi3a",
     "Arda1420",
     "Zzz_tps2",
